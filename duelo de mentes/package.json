@@ -1,0 +1,16 @@
+{
+  "name": "jogo-adivinhacao-definitivo",
+  "version": "1.0.0",
+  "description": "Jogo de adivinhação com todos os modos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "uuid": "^9.0.1"
+  }
+}
